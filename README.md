@@ -45,5 +45,10 @@ https://colab.research.google.com/gist/CrazyCoder009/3ae848f93572cf324307aadcfa4
 
 1. Downloading using the same account everyday would lead to a temporary ban of 24hrs from Google Collab, so try using different accounts everyday (your gmail or srmist alternatively).  
 
+# More Tools coming up!
+Be safe, stay safe this Corona Season.
+# RRN 
+# www.github.com/CrazyCoder009
+
 2. Changing the runtime type may give you more or less downloading memory depending on which you select, hence best to leave the runtime configurations to default if you're a noob.(107 GB Limit of download at once, plenty bruh!)
 
