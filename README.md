@@ -23,11 +23,11 @@ https://colab.research.google.com/gist/CrazyCoder009/3ae848f93572cf324307aadcfa4
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> .
 
-# 3. Login using your SRMIST/Google account (any would work in this step, refer point 1 from limitations below).
+## 3. Login using your SRMIST/Google account (any would work in this step, refer point 1 from limitations below).
 
 4. Run the Program Code scroll down and wait.
 
-# 5. Click on the generated link and login using your SRMIST Drive Account (for unlimited storage, yes it is unlimited).
+## 5. Click on the generated link and login using your SRMIST Drive Account (for unlimited storage, yes it is unlimited).
 
 6. Verify and click on "Allow", after that copy the generated verification code and come back to Autolycus and paste it in the field.
 
